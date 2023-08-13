@@ -37,7 +37,7 @@ To build the gaming gloves, you'll need the following components:
 3. Open the Arduino IDE and go to **Tools > Board**. Select "Arduino Uno."
 4. Go to **Tools > Port** and choose the appropriate port for your Arduino board.
 5. Download the necessary libraries for MPU6050 sensor integration. You can find them on GitHub or the Arduino Library Manager.
-6. Load the code provided in the `gaming_gloves.ino` file into the Arduino IDE.
+6. Load the code provided in the [gaming_gloves.ino](gaming_gloves.ino) file into the Arduino IDE.
 7. Upload the code to your Arduino Uno board.
 
 ## Usage
