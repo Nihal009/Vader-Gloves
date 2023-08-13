@@ -1,7 +1,7 @@
 # Vader-Gloves 
 ### Gaming Gloves with Arduino Uno and MPU6050 Triple Axis Sensor
 
-![Gaming Gloves](gaming_gloves.jpg)
+![Gaming Gloves](photo_6250999787939805365_y.jpg)
 
 Welcome to the Gaming Gloves project! In this project, we'll be creating a pair of gaming gloves using an Arduino Uno board and an MPU6050 triple axis sensor. These gloves will enable you to interact with games and applications by sensing your hand movements and gestures.
 
